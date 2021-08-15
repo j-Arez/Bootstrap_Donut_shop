@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-projects",
+  "version": "1.0.0",
+  "description": "This is a website for the fictional J's Donut Shop store.",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-Arez/Bootstrap_Donut_shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-Arez/Bootstrap_Donut_shop/issues"
+  },
+  "homepage": "https://github.com/j-Arez/Bootstrap_Donut_shop#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
